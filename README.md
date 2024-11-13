@@ -1,7 +1,7 @@
 # Milestone-2
 
 ## Author
-Your Name  
+LINGRAN ZHANG  
 
 CPSC2231L 01 Programming Workshop Lab  
 

@@ -32,7 +32,7 @@ This project serves as a versatile and powerful tool for anyone working with tex
 
 ## UML Diagram
 
-*(Include a UML diagram to visually represent the structure and relationships between classes. You can link a hosted image or upload it here.)*  
+
 
 ---
 

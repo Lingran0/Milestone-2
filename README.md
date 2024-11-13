@@ -31,7 +31,7 @@ This project serves as a versatile and powerful tool for anyone working with tex
 ---
 
 ## UML Diagram
-
+![UML Diagram](https://raw.githubusercontent.com/Lingran0/Milestone2/main/UML%20diagram.png)
 
 
 ---
